@@ -1,0 +1,8 @@
+export default [
+  { "id": "1", "tipomovimento": "ENTRADA", "descricao": "Adiantamento Hong Kong", "valor": 850000.00, "ativoId": 0, "compraId": 0, "contaId": 1, "userResponsavelId": 1, "estorno": false, "createdAt": "2021-04-20T22:17:34.357Z", "updatedAt": "2021-04-20T22:17:34.357Z"},
+  { "id": "2", "tipomovimento": "ENTRADA", "descricao": "Adiantamento Alair", "valor": 150000.00, "ativoId": 0, "compraId": 0, "contaId": 1, "userResponsavelId": 1, "estorno": false, "createdAt": "2021-04-21T22:17:34.357Z", "updatedAt": "2021-04-21T22:17:34.357Z"},
+  { "id": "3", "tipomovimento": "SAIDA", "descricao": "Limpar nome SPC/Serasa", "valor": 1000.00, "ativoId": 1, "compraId": 0, "contaId": 1, "userResponsavelId": 1, "estorno": false, "createdAt": "2021-04-20T22:17:34.357Z", "updatedAt": "2021-04-20T22:17:34.357Z"},
+  { "id": "4", "tipomovimento": "SAIDA", "descricao": "Transferência Kátia Oliveira", "valor": 10000.00, "ativoId": 1, "compraId": 0, "contaId": 1, "userResponsavelId": 1, "estorno": true, "createdAt": "2021-04-21T22:17:34.357Z", "updatedAt": "2021-04-21T22:17:34.357Z"},
+  { "id": "5", "tipomovimento": "SAIDA", "descricao": "Transferência Kátia xxx", "valor": 500.00, "ativoId": 1, "compraId": 0, "contaId": 1, "userResponsavelId": 1, "estorno": false, "createdAt": "2021-04-21T22:18:34.357Z", "updatedAt": "2021-04-21T22:17:34.357Z"},
+  { "id": "6", "tipomovimento": "SAIDA", "descricao": "Compra Bmw x6", "valor": 800000.00, "ativoId": 1, "compraId": 0, "contaId": 1, "userResponsavelId": 1, "estorno": false, "createdAt": "2021-04-21T22:19:34.357Z", "updatedAt": "2021-04-21T22:19:34.357Z"},
+];
